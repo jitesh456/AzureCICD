@@ -1,0 +1,14 @@
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\bin\Debug\netcoreapp2.1\DotnetAzureDemo.deps.json
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\bin\Debug\netcoreapp2.1\DotnetAzureDemo.runtimeconfig.json
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\bin\Debug\netcoreapp2.1\DotnetAzureDemo.runtimeconfig.dev.json
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\bin\Debug\netcoreapp2.1\DotnetAzureDemo.dll
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\bin\Debug\netcoreapp2.1\DotnetAzureDemo.pdb
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.csprojAssemblyReference.cache
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.csproj.CoreCompileInputs.cache
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.RazorAssemblyInfo.cache
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.RazorAssemblyInfo.cs
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.AssemblyInfoInputs.cache
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.AssemblyInfo.cs
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.RazorTargetAssemblyInfo.cache
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.dll
+C:\Users\jites\OneDrive\Desktop\AzureCid\DotnetAzureDemo\obj\Debug\netcoreapp2.1\DotnetAzureDemo.pdb
